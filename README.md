@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/uLFvjz67V6' title='Video Walkthrough' width='' alt='Video Walkthrough' /># Project 3 - *twitter--app*
+<img src='http://g.recordit.co/uLFvjz67V6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /># Project 3 - *twitter--app*
 
 **twitter--app** is a basic twitter app to read your tweets.
 
