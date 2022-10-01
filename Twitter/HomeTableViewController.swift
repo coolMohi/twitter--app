@@ -72,7 +72,7 @@ class HomeTableViewController: UITableViewController {
             
             self.tableView.reloadData()
         }, failure: { Error in
-            print("could not retrieve tweets! oh no!! \(Error)")
+            print(Error.localizedDescription)
         })
         
     }
